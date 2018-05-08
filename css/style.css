@@ -1386,7 +1386,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 0 2px;
 }
 
-/* Contact Section
+/* Contact Sectionnn
 --------------------------------*/
 #contact {
   padding: 60px 0;
@@ -1654,3 +1654,20 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
   color: #ddd;
 }
+
+
+/*--------------------------------------------------------------
+# ReL Footer
+--------------------------------------------------------------*/
+
+
+#realfooter {
+  padding: 60px auto;
+}
+
+
+
+
+
+
+
